@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppTez</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="notification_sounds">
+        <item>Bildirim 1</item>
+        <item>Bildirim 2</item>
+        <item>Bildirim 3</item>
+
+    </string-array>
+    <string-array name="tema_opt">
+        <item>Varsayılan</item>
+        <item>Gece Modu</item>
+
+
+    </string-array>
+</resources>
